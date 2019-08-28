@@ -1,0 +1,69 @@
+message warn !
+message error !
+message fatal !
+message warn !
+message error !
+message fatal !
+message debug !
+message info !
+message warn !
+message error !
+message fatal !
+message debug !
+message info !
+message warn !
+message error !
+message fatal !
+message warn !
+message error !
+message fatal !
+2019-07-29 10:20:23 WARN  AppLog:12 - message warn !
+2019-07-29 10:20:23 ERROR AppLog:13 - message error !
+2019-07-29 10:20:23 FATAL AppLog:14 - message fatal !
+2019-07-29 10:21:09 WARN  AppLog:12 - message warn !
+2019-07-29 10:21:09 ERROR AppLog:13 - message error !
+2019-07-29 10:21:09 FATAL AppLog:14 - message fatal !
+2019-07-30 16:04:51 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:04:54 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:04:54 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:04:54 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:04:54 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:04:54 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:04:54 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:04:54 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:04:54 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:10:30 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:10:31 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:10:31 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:10:31 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:10:31 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:10:31 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:10:31 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:10:31 WARN  SqlExceptionHelper:144 - SQL Error: 1054, SQLState: 42S22
+2019-07-30 16:10:31 ERROR SqlExceptionHelper:146 - Unknown column 'employee0_.END_DATE' in 'field list'
+2019-07-30 16:12:17 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:18 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:37 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:12:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:05 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:06 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:06 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:06 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:06 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-07-30 16:49:06 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-27 16:27:33 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-27 16:27:39 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:15 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:17 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:17 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:28 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:29 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-28 10:27:29 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
